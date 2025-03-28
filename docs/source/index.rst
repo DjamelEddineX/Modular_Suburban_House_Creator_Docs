@@ -1,7 +1,7 @@
 Modular Suburban House Creator
 =============
 
-.. image:: images/Modular Suburban House (Featured Image).png
+.. image:: images/Modular_Suburban_House_Thumbnail.png
    :width: 600
    :alt: Modular Suburban House Creator
 
