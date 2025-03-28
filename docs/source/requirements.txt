@@ -1,3 +1,2 @@
-# docs/requirements.txt
-sphinx==7.2.6
-sphinx-rtd-theme==2.0.0
+echo "sphinx==7.2.6" > docs/requirements.txt
+echo "sphinx_rtd_theme==2.0.0" >> docs/requirements.txt
