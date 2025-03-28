@@ -1,48 +1,30 @@
-Operation
-=========
+Tools
+##########
 
-Categories
-----------
+| These tools help position and modify house parts after they are placed in the scene.
+|
 
-This UI code creates movement controls:
+Move Part
+******
 
-.. code-block:: python
+* **Purpose**: Adjust the position of selected parts in increments of 1 meter.
+* **Controls**:
+ :Left (←): Moves part left (negative X-axis).
+ :Right (→): Moves part right (positive X-axis).
+ :Front (↑): Moves part forward (negative Y-axis).
+ :Back (↓): Moves part backward (positive Y-axis).
+ :Up (↑): Moves part upward (positive Z-axis)
+ :Down (↓): Moves part downward (negative Z-axis).
+|
 
-   move_col = tools_box.column(align=True)
-   move_col.label(text="Move:")
-   row = move_col.row(align=True)
-   row.operator("object.move_part", text="← Left").direction = 'LEFT'
-   row.operator("object.move_part", text="Right →").direction = 'RIGHT'
-   row = move_col.row(align=True)
-   row.operator("object.move_part", text="↑ Front").direction = 'FRONT'
-   row.operator("object.move_part", text="↓ Back").direction = 'BACK'
-   row = move_col.row(align=True)
-   row.operator("object.move_part", text="↑ Up").direction = 'UP'
-   row.operator("object.move_part", text="↓ Down").direction = 'DOWN'
+Rotate Part
+******
 
-- Creates a vertical column for movement controls
-- Adds labeled buttons for left/right, front/back, and up/down movement
-- Each button triggers the ``move_part`` operator with specific direction
+* **Purpose**: Rotate parts in 90° increments.
+* **Controls**:
+ :↺ -90°: Rotates counterclockwise (negative Z-axis).
+ :↻ +90°: Rotates clockwise (positive Z-axis).
+ **Usage**: Select a part and click the rotation button to adjust its orientation.
+|
 
-Rotation Controls:
-
-.. code-block:: python
-
-   rotate_col = tools_box.column(align=True)
-   rotate_col.label(text="Rotate:")
-   row = rotate_col.row(align=True)
-   row.operator("object.rotate_part", text="↺ -90°").angle = -90
-   row.operator("object.rotate_part", text="↻ +90°").angle = 90
-
-- Creates rotation buttons (-90° and +90°)
-- Triggers ``rotate_part`` operator with angle parameter
-
-Additional Tools:
-
-.. code-block:: python
-
-   row.operator("object.duplicate_part", text="Duplicate", icon='DUPLICATE')
-   row.operator("object.delete_part", text="Delete", icon='TRASH')
-   layout.operator("object.add_new_part", text="Create New Part", icon='ADD')
-
-- Duplicate/Delete/New Part buttons with appropriate icons
+|
