@@ -61,10 +61,10 @@ Create New Part
 
 * **Purpose**: Adds a custom object to the parts library.
 * **Steps**:
- :1. Select an object in the scene
- :2. Click **Create New Part**
- :3. Enter a name and assign a category
- :4. Optionally import an icon for visual identification
+ 1. Select an object in the scene
+ 2. Click **Create New Part**
+ 3. Enter a name and assign a category
+ 4. Optionally import an icon for visual identification
 * **Usage**: Allows expanding the library with custom-designed components
 
 Delete from Library
@@ -72,25 +72,25 @@ Delete from Library
 
 * **Purpose**: Permanently removes a part from the library.
 * **Usage**:
- :1. Click the trash icon (🗑️) next to a part's name
- :2. Confirm deletion (cannot be undone)
+ 1. Click the trash icon (🗑️) next to a part's name
+ 2. Confirm deletion (cannot be undone)
 
 Import Icon
 ******
 
 * **Purpose**: Assigns a custom thumbnail to a part.
 * **Usage**:
- :1. Click the image icon (🖼️) next to a part's name
- :2. Select an image file (PNG, JPG, etc.)
- :3. The icon will appear in the parts list
+ 1. Click the image icon (🖼️) next to a part's name
+ 2. Select an image file (PNG, JPG, etc.)
+ 3. The icon will appear in the parts list
 
 Search Bar
 ******
 
 * **Purpose**: Filters parts by name.
 * **Usage**:
- :1. Type a keyword (e.g., "window")
- :2. Only matching parts appear in the list
+ 1. Type a keyword (e.g., "window")
+ 2. Only matching parts appear in the list
 
 Clear Search
 ******
@@ -120,7 +120,5 @@ Advanced Usage Tips
 ##################
 
 * To move multiple parts at once, select all desired objects before using movement tools
-* Combine rotation and mirroring to create complex symmetrical structures
-* Use duplicate+move to quickly create repeating architectural elements
 * Save frequently when modifying the parts library
 * Use descriptive names when creating new parts for easier searching
