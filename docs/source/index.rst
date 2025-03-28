@@ -30,6 +30,6 @@ Contents
    :maxdepth: 2
 
    installation
-   operation
+   tools
    changelog
    contact
