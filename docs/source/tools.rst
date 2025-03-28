@@ -105,8 +105,6 @@ Collapse/Expand Categories
 * **Usage**: Click the **▼ (down arrow)** to expand or **▶ (right arrow)** to collapse
 
 Advanced Usage Tips
-##################
-
 * To move multiple parts at once, select all desired objects before using movement tools
 * Save frequently when modifying the parts library
 * Use descriptive names when creating new parts for easier searching
