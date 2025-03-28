@@ -16,16 +16,3 @@ Written Tutorial
 5. Click "Install Add-on from file"
 6. Search for "Modular Suburban House Creator" if not visible
 7. Enable the checkbox next to the add-on
-
-Update
-------
-1. Uninstall the old version
-2. Download new version from your marketplace orders
-3. Follow installation instructions with the new .zip file
-4. Restart Blender
-
-Blender Version Compatibility
------------------------------
-In the Quick Setup menu when updating Blender:
-- Choose "Load x.x Settings" in bottom left corner
-- Your add-on preferences will be preserved
