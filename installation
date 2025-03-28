@@ -1,0 +1,13 @@
+# Installation
+
+## Video Tutorial  
+[![Watch Tutorial](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+
+## Written Tutorial  
+1. Go to **Edit > Preferences** in Blender.  
+2. Select **Add-ons** on the left.  
+3. Click **Install…** in the top right corner.  
+4. Navigate to `Modular_Suburban_House_Creator_x.x.x.zip` (do not unpack).  
+5. Click **Install Add-on from File**.  
+6. Search for `Modular Suburban House Creator` in the search box.  
+7. Tick the checkbox to enable it.
