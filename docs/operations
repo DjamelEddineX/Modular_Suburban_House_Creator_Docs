@@ -1,0 +1,28 @@
+# Operation Categories
+
+These tools control how you manipulate parts in your scene.
+
+## Move
+- **← Left**: Moves the selected part to the left.
+- **Right →**: Moves the part to the right.
+- **↑ Front**: Moves the part forward in your scene.
+- **↓ Back**: Moves the part backward.
+- **↑ Up**: Raises the part vertically.
+- **↓ Down**: Lowers the part vertically.
+
+## Rotate
+- **↺ -90°**: Rotates the part 90 degrees counterclockwise (to the left).
+- **↻ +90°**: Rotates the part 90 degrees clockwise (to the right).
+
+## Mirror
+- **Flip X**: Creates a mirrored copy left-to-right (like flipping horizontally).
+- **Flip Y**: Creates a mirrored copy front-to-back (like flipping vertically).
+
+## Part Management
+- **Duplicate** (♦): Makes an exact copy of the selected part.
+- **Delete** (🗑️): Removes the selected part from your scene.
+- **Create New Part** (+): Opens a menu to add brand new parts to your scene.
+
+---
+
+> 💡 **Tip**: Use these tools to
