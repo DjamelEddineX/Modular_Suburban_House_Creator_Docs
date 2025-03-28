@@ -9,14 +9,13 @@ Move Part
 
 * **Purpose**: Adjust the position of selected parts in increments of 1 meter.
 * **Controls**:
-  - **Left (←)**: Moves part left (negative X-axis)
-  - **Right (→)**: Moves part right (positive X-axis)
-  - **Front (↑)**: Moves part forward (negative Y-axis)
-  - **Back (↓)**: Moves part backward (positive Y-axis)
-  - **Up (↑)**: Moves part upward (positive Z-axis)
-  - **Down (↓)**: Moves part downward (negative Z-axis)
-* **Usage**: 
-  Select a part and click the desired direction button to move it precisely.
+ :**Left (←)**: Moves part left (negative X-axis)
+ :**Right (→)**: Moves part right (positive X-axis)
+ :**Front (↑)**: Moves part forward (negative Y-axis)
+ :**Back (↓)**: Moves part backward (positive Y-axis)
+ :**Up (↑)**: Moves part upward (positive Z-axis)
+ :**Down (↓)**: Moves part downward (negative Z-axis)
+* **Usage**: Select a part and click the desired direction button to move it precisely.
 
 Rotate Part
 ******
