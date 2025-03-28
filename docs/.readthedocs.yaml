@@ -7,7 +7,7 @@ build:
     python: "3.10"
 
 sphinx:
-  configuration: docs/source/conf.py  # Adjusted path
+  configuration: docs/conf.py  # Adjusted path
 
 formats:
   - pdf
