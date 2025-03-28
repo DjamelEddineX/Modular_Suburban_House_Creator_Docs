@@ -1,0 +1,9 @@
+site_name: Modular Suburban House Creator
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Update: update.md
+  - Changelog: changelog.md
+  - Operation Categories: operations.md
+  - Library: library.md
+theme: readthedocs
