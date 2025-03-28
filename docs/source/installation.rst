@@ -5,7 +5,7 @@ Video Tutorial
 --------------
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=8qeRCNRuD_o" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/8qeRCNRuD_o?si=whOQDgS_x_dlPdOn" frameborder="0" allowfullscreen></iframe>
 
 Written Tutorial
 ----------------
