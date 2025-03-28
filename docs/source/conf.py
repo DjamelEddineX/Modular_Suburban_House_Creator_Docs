@@ -22,6 +22,11 @@ extensions = [
 ]
 
 autosectionlabel_prefix_document = True
+html_show_sourcelink = False
+html_theme_options = {
+    "display_version": False,  # Hides version number
+    "version_dropdown": False, # Hides dropdown
+}
 
 intersphinx_mapping = {
     "python": ("https://docs.python.org/3/", None),
