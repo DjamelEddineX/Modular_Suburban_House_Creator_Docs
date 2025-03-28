@@ -52,9 +52,9 @@ Add House Part
 
 * **Purpose**: Places a pre-made modular part into the scene.
 * **Usage**:
- * 1. Browse categories (e.g., "Roof Components", "Exterior Walls")
- * 2. Click a part's name to add it to the scene
- * 3. The part appears at the 3D cursor or active object's location
+ 1. Browse categories (e.g., "Roof Components", "Exterior Walls")
+ 2. Click a part's name to add it to the scene
+ 3. The part appears at the 3D cursor or active object's location
 
 Create New Part
 ******
