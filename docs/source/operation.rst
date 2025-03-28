@@ -104,18 +104,6 @@ Collapse/Expand Categories
 * **Purpose**: Hides or shows parts in a category.
 * **Usage**: Click the **▼ (down arrow)** to expand or **▶ (right arrow)** to collapse
 
-Debug Icons
-******
-
-* **Purpose**: Checks for missing icons and displays diagnostic info.
-* **Usage**: Click **Debug Icon System** in the debug panel (visible in debug mode)
-
-Reload Icons
-******
-
-* **Purpose**: Refreshes all part icons.
-* **Usage**: Click **Reload All Icons** when icons don't load properly
-
 Advanced Usage Tips
 ##################
 
