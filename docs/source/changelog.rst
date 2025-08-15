@@ -4,10 +4,10 @@ Changelog
 ## 1.0.1
 
 ### Added
-- Added `_Openable` window and sliding window parts for better animation control and rendering use.
+- Added _Openable window and sliding window parts for better animation control and rendering use.
 
 ### Changed
-- The “Move” tool UI and tooltips now explicitly state movement is in Blender world axes (Left = -X, Right = +X, Front = -Y, Back = +Y, Up = +Z, Down = -Z).
+- The "Move" tool UI and tooltips now explicitly state movement is in Blender world axes (Left = -X, Right = +X, Front = -Y, Back = +Y, Up = +Z, Down = -Z).
 
 ### Fixed
 - When adding modular parts with multiple children, the true parent object is placed at the active object or cursor transform, not a random child. All children are unhidden and remain at correct relative positions.
